@@ -80,7 +80,7 @@ output_matlab = function(X, y, path, seed=0, test.ratio=0.2)
 #############################################################################
 
 # set directory, should be consistent with 'compared_methods.R', 'nullity_test.R'
-main.path = "C:/Users/Administrator/Desktop/LR_on_Met/real_data/fMRI/"
+main.path = "/home/linyn/LR_on_Met/real_data/fMRI/"
 setwd(main.path)
 
 
